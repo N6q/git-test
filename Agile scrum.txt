@@ -1,0 +1,29 @@
+The Scrum Process, a popular Agile framework for software development. Here’s a breakdown of the process: 
+
+Key Roles in Scrum: 
+
+	Product Owner: Defines and prioritizes the backlog. 
+
+	Scrum Master: Facilitates the Scrum process and removes blockers. 
+
+	Team: Developers, designers, and testers who work on the product. 
+
+Scrum Workflow: 
+
+	1. Product Backlog – A prioritized list of features and tasks. 
+
+	2. Sprint Planning Meeting – The team selects tasks for the upcoming sprint. 
+
+	3. Sprint Backlog – A list of tasks to be completed within the sprint. 
+
+	4. Sprint (1-4 Weeks) – Development cycle where the team works on selected tasks. 
+
+		* Daily Stand-up (24H) – Short daily meetings to track progress. 
+
+	5. Sprint Review + Sprint Retrospective – 
+
+		* Review completed work and collect feedback. 
+
+		* Reflect on the process and improve for the next sprint. 
+
+	6. Finished Work – A working product or feature is delivered 
