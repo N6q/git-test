@@ -1,0 +1,30 @@
+The 6 Phases of the Software Development Life Cycle (SDLC): 
+
+**Analysis** – Involves stakeholders like the Product Owner, Project Manager, Business Analyst, and CTO to gather and analyze requirements. 
+
+-> The Product Owner defines and prioritizes product requirements, the Project Manager ensures project delivery on time and within budget, the Business Analyst translates business needs into technical specifications, and the CTO oversees the technical direction and architecture of the software.
+
+
+**Design** – Handled by System Architects and UX/UI Designers to create the software's structure and user experience. 
+
+-> The System Architects design the software’s structure and technical framework, while the UX/UI Designers focus on creating the user interface and ensuring a seamless user experience. 
+
+
+**Development** – Carried out by Front-end and Back-end Developers to build the actual product. 
+
+-> The Front-end Developers create the user interface and ensure a responsive design, while the Back-end Developers build the server-side logic, databases, and APIs to support the product’s functionality.
+
+
+**Testing** – Involves Solutions Architects, QA Engineers, Testers, and DevOps to ensure quality and performance. 
+
+-> The Solutions Architects ensure the system architecture meets requirements, QA Engineers and Testers validate functionality and performance, while DevOps support continuous integration and deployment to maintain quality.
+
+
+**Deployment** – Managed by Data Administrators and DevOps to release the software. 
+
+-> Data Administrators manage data migration and storage, while DevOps handle the automation, configuration, and deployment processes to release the software smoothly.
+
+
+**Maintenance** – Supported by Users, Testers, and Support Managers to keep the system running efficiently. 
+
+-> Users provide feedback on system performance, Testers identify and report bugs, and Support Managers ensure ongoing support and issue resolution to maintain system efficiency.

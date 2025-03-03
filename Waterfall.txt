@@ -1,0 +1,23 @@
+The Waterfall Model in Software Engineering, which follows a sequential design process. Here’s a breakdown of each phase: 
+
+*Phases of the Waterfall Model: 
+
+	1. Requirements – Gather and document all system requirements. 
+
+	2. Design – Create the system architecture and design specifications. 
+
+	3. Development – Write the actual code based on the design. 
+
+	4. Testing – Verify that the software functions correctly. 
+
+	5. Deployment – Release the software to the end users. 
+
+	6. Maintenance – Fix bugs, update features, and ensure smooth operation. 
+
+Key Characteristics: 
+
+	`Linear and Sequential: Each phase must be completed before moving to the next. 
+
+	`Documentation Heavy: Every step is well-documented. 
+
+	`Best for Stable Projects: Works well when requirements are clear and unlikely to change. 
